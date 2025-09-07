@@ -159,20 +159,16 @@ Run with Docker
 
 docker run -v ${PWD}/data:/app/data smart-scheduler
 
-## 📊 Project Screenshots
 
-### ⚙️ Airflow Setup
-![Airflow running inside Docker](Pic/Airflow%20is%20running%20inside%20Docker%20containers.png)
-![Apache Airflow running](Pic/Apache%20Airflow%20running%20inside%20Docker%20containers.png)
+![Airflow running inside Docker](Pic/airflow_docker.png)
+![Apache Airflow running](Pic/apache_airflow.png)
+![DAG Calendar](Pic/dag_calendar.png)
+![Pipeline Running](Pic/pipeline_status.png)
 
-### 📅 DAGs
-![DAG Calendar](Pic/DAG%20callender.png)
-![Pipeline Running](Pic/Pipelinr%20running%20status.png)
-
-### 📈 Data Visualizations
-![Visualization 1](Pic/Visualization%201.png)
-![Visualization 2](Pic/Visualization%202.png)
-![Visualization 3](Pic/Visualization%203.png)
-![Visualization 4](Pic/Visualization%204.png)
-![Visualization 5](Pic/Visualization%205.png)
-![Visualization 6](Pic/Visualization%206.png)
+## 📈 Data Visualizations
+![Visualization 1](Pic/visualization1.png)
+![Visualization 2](Pic/visualization2.png)
+![Visualization 3](Pic/visualization3.png)
+![Visualization 4](Pic/visualization4.png)
+![Visualization 5](Pic/visualization5.png)
+![Visualization 6](Pic/visualization6.png)
