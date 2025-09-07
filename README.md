@@ -116,6 +116,7 @@ These instructions will get your project up and running on your local machine.
 ![DAG Calendar](Pic/DAG_callender.png)
 ![Pipeline Running Status](Pic/Pipeliner_running_status.png)
 
+
 ### Visualizations
 ![Visualization 1](Pic/Visualization_1.png)
 ![Visualization 2](Pic/Visualization_2.png)
@@ -180,3 +181,4 @@ docker exec -it smart-asset-scheduler-airflow-webserver-1 airflow users create -
 Run with Docker
 
 docker run -v ${PWD}/data:/app/data smart-scheduler
+
