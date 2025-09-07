@@ -159,8 +159,7 @@ Run with Docker
 
 docker run -v ${PWD}/data:/app/data smart-scheduler
 
-
-## Screenshots
+### Screenshots
 
 ### Airflow inside Docker
 ![Airflow inside Docker](https://raw.githubusercontent.com/Gauravkumar15122003/smart-asset-scheduler/main/Pic/Airflow%20is%20running%20inside%20Docker%20containers.png)
@@ -183,3 +182,4 @@ docker run -v ${PWD}/data:/app/data smart-scheduler
 ![Visualization 4](https://raw.githubusercontent.com/Gauravkumar15122003/smart-asset-scheduler/main/Pic/Visualization%204.png)  
 ![Visualization 5](https://raw.githubusercontent.com/Gauravkumar15122003/smart-asset-scheduler/main/Pic/Visualization%205.png)  
 ![Visualization 6](https://raw.githubusercontent.com/Gauravkumar15122003/smart-asset-scheduler/main/Pic/Visualization%206.png)  
+
