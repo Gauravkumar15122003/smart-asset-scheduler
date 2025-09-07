@@ -156,4 +156,23 @@ Explanations: The explanation_agent generates dynamic explanations based on the 
 docker exec -it smart-asset-scheduler-airflow-webserver-1 airflow users create --username airflow --firstname Gaurav --lastname Kumar --role Admin --email gaurav@example.com --password airflow
 
 Run with Docker
-docker run -v ${PWD}/data:/app/data smart-scheduler 
+
+docker run -v ${PWD}/data:/app/data smart-scheduler
+
+## 📊 Project Screenshots
+
+### ⚙️ Airflow Setup
+![Airflow running inside Docker](Pic/Airflow%20is%20running%20inside%20Docker%20containers.png)
+![Apache Airflow running](Pic/Apache%20Airflow%20running%20inside%20Docker%20containers.png)
+
+### 📅 DAGs
+![DAG Calendar](Pic/DAG%20callender.png)
+![Pipeline Running](Pic/Pipelinr%20running%20status.png)
+
+### 📈 Data Visualizations
+![Visualization 1](Pic/Visualization%201.png)
+![Visualization 2](Pic/Visualization%202.png)
+![Visualization 3](Pic/Visualization%203.png)
+![Visualization 4](Pic/Visualization%204.png)
+![Visualization 5](Pic/Visualization%205.png)
+![Visualization 6](Pic/Visualization%206.png)
