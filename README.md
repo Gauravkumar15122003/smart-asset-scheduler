@@ -158,3 +158,24 @@ docker exec -it smart-asset-scheduler-airflow-webserver-1 airflow users create -
 Run with Docker
 
 docker run -v ${PWD}/data:/app/data smart-scheduler
+
+
+# Smart Asset Scheduler
+
+## Screenshots
+
+### Airflow Setup
+![Airflow is running inside Docker containers](Pic/Airflow_is_running_inside_Docker_containers.png)
+![Apache Airflow running inside Docker containers](Pic/Apache_Airflow_running_inside_Docker_containers.png)
+
+### DAG and Pipeline
+![DAG Calendar](Pic/DAG_callender.png)
+![Pipeline Running Status](Pic/Pipeliner_running_status.png)
+
+### Visualizations
+![Visualization 1](Pic/Visualization_1.png)
+![Visualization 2](Pic/Visualization_2.png)
+![Visualization 3](Pic/Visualization_3.png)
+![Visualization 4](Pic/Visualization_4.png)
+![Visualization 5](Pic/Visualization_5.png)
+![Visualization 6](Pic/Visualization_6.png)
