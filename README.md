@@ -103,6 +103,9 @@ These instructions will get your project up and running on your local machine.
     ```
     This will open the dashboard in your default web browser (usually `http://localhost:8501`).
 
+
+![Airflow is running inside Docker containers](https://raw.githubusercontent.com/Gauravkumar15122003/smart-asset-scheduler/main/Pic/Airflow_is_running_inside_Docker_containers.png)
+
 ## Usage
 
 ### Running the pipeline locally (without Airflow)
@@ -179,3 +182,6 @@ docker run -v ${PWD}/data:/app/data smart-scheduler
 ![Visualization 4](Pic/Visualization_4.png)
 ![Visualization 5](Pic/Visualization_5.png)
 ![Visualization 6](Pic/Visualization_6.png)
+
+![Airflow is running inside Docker containers](https://raw.githubusercontent.com/Gauravkumar15122003/smart-asset-scheduler/main/Pic/Airflow_is_running_inside_Docker_containers.png)
+
