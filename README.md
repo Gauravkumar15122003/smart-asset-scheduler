@@ -158,28 +158,3 @@ docker exec -it smart-asset-scheduler-airflow-webserver-1 airflow users create -
 Run with Docker
 
 docker run -v ${PWD}/data:/app/data smart-scheduler
-
-### Screenshots
-
-### Airflow inside Docker
-![Airflow inside Docker](https://raw.githubusercontent.com/Gauravkumar15122003/smart-asset-scheduler/main/Pic/Airflow%20is%20running%20inside%20Docker%20containers.png)
-
-### Apache Airflow running
-![Apache Airflow running](https://raw.githubusercontent.com/Gauravkumar15122003/smart-asset-scheduler/main/Pic/Apache%20Airflow%20running%20inside%20Docker%20containers.png)
-
-### DAG Calendar
-![DAG Calendar](https://raw.githubusercontent.com/Gauravkumar15122003/smart-asset-scheduler/main/Pic/DAG%20callender.png)
-
-### Pipeline Running Status
-![Pipeline Status](https://raw.githubusercontent.com/Gauravkumar15122003/smart-asset-scheduler/main/Pic/Pipeliner%20running%20status.png)
-
-
-## Data Visualizations
-
-![Visualization 1](https://raw.githubusercontent.com/Gauravkumar15122003/smart-asset-scheduler/main/Pic/Visualization%201.png)  
-![Visualization 2](https://raw.githubusercontent.com/Gauravkumar15122003/smart-asset-scheduler/main/Pic/Visualization%202.png)  
-![Visualization 3](https://raw.githubusercontent.com/Gauravkumar15122003/smart-asset-scheduler/main/Pic/Visualization%203.png)  
-![Visualization 4](https://raw.githubusercontent.com/Gauravkumar15122003/smart-asset-scheduler/main/Pic/Visualization%204.png)  
-![Visualization 5](https://raw.githubusercontent.com/Gauravkumar15122003/smart-asset-scheduler/main/Pic/Visualization%205.png)  
-![Visualization 6](https://raw.githubusercontent.com/Gauravkumar15122003/smart-asset-scheduler/main/Pic/Visualization%206.png)  
-
